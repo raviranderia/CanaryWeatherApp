@@ -37,7 +37,7 @@ class ViewController: UIViewController,UICollectionViewDelegate,UICollectionView
     let weekOperation = WeekOperation()
     var defaultAddress = "Alcatraz, California"
     
-    private let forecastAPIKey = "d72e4e6c52237f4e502925e32cbcece6"
+    private let forecastAPIKey = "Your_API_Key"
     
     var coordinate: (lat : Double, long : Double) = (37.8267,-122.423)
     
